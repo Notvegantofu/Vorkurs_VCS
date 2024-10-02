@@ -1,2 +1,5 @@
 This is gonna be a conflict
-I did it again
+<<<<<<< HEAD
+Oooops I did it again
+
+>>>>>>> a50ccad9136582d20aaf3b1319b64860cbe59a2e
